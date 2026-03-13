@@ -5,7 +5,7 @@
  * element is the minimum element of that subarray.
  * * Note: A subarray is valid if its first element is <= all other elements 
  * in that subarray.
- * * Examples:
+ * * Examples:-
  * Input: arr[] = [1, 2, 1]
  * Output: 5
  * Explanation: Valid subarrays are [1], [1, 2], [1, 2, 1], [2], [1]. 
