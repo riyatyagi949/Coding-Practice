@@ -1,5 +1,5 @@
 /**
- * Problem Statement: Adjacent Increasing Subarrays Detection I (LeetCode 3349)
+ * Problem Statement: Adjacent increasing subarrays Detection I (LeetCode 3349)
  * --------------------------------------------------------------------------
  * Given an array 'nums' of n integers and an integer 'k', determine whether there exist 
  * two adjacent subarrays of length 'k' such that both subarrays are strictly increasing.
